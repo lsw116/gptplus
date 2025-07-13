@@ -1,4 +1,4 @@
-# WildCard (野卡) 跑路，可替代的 GPT-4 充值续费方案
+# WildCard (野卡) 跑路，可替代的 Chat GPT-4 代充值续费方案
 
 ## 背景
 
